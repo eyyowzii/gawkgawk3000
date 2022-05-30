@@ -97,7 +97,7 @@ class StopWatch(Frame):
             
 def main():
     root = Tk()
-    root.wm_attributes("-topmost", 1)      #always on top - might do a button for it
+    root.wm_attributes("-topmost", 1)
     sw = StopWatch(root)
     sw.pack(side=TOP)
 
