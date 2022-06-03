@@ -10,7 +10,6 @@ class StopWatch(Frame):
         self._elapsedtime = 0.0
         self._running = 0
         self.timestr = StringVar()
-        #self.lapstr = StringVar()
         self.e = 0
         self.m = 0
         self.makeWidgets()
