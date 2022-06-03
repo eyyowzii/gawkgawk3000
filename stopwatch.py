@@ -102,7 +102,7 @@ def main():
     sw = StopWatch(root)
     sw.pack(side=TOP)
 
-    
+    Button(root, text='Lap', command=sw.Lap).pack(side=LEFT)
     Button(root, text='Start', command=sw.Start).pack(side=LEFT)
     Button(root, text='Stop', command=sw.Stop).pack(side=LEFT)
     Button(root, text='Reset', command=sw.Reset).pack(side=LEFT)
