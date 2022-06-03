@@ -1,8 +1,17 @@
 EEE100_17.1N Project-based exam
 
-Project Title: Python Stopwatch
+Project Title: **Python Stopwatch**
 
-Members:
+**FEATURES**
+- **Start**
+- **Stop**
+- **Reset**
+- **Lap**
+- **Quit**
+
+
+**Members:**
+
 Keyla Abigail Dacayo
 
 Kristoffer Estaño 
