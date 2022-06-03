@@ -1,4 +1,3 @@
-# gawkgawk3000 repository
 EEE100_17.1N Project-based exam
 
 Project Title: Python Stopwatch
